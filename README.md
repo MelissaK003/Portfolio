@@ -12,7 +12,7 @@ The application features a landing page that highlights my skills, educational b
 * And you are all done
 
 ## Live server
-* You can view the web live on [Portfolio]
+* You can view the web live on [Portfolio]https://melissak003.github.io/Portfolio/
 
 ## Known Bugs
 The application works perfectly well, no bugs.
@@ -24,6 +24,6 @@ HTML, CSS , Fontawesome icons, GIT
 email :Melissakiptoo@gmail.com
 
 ### License
-*LIcenced under the [MT-licence]*
+*LIcenced under the [MT-licence]*https://github.com/MelissaK003/Portfolio/blob/main/LICENSE
 
 Copyright (c) 2024 **Melissa Kiptoo**
