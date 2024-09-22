@@ -1,0 +1,172 @@
+*{
+    padding: 0%;
+    margin: 0%;
+    font-size: 28px;
+    font-family: 'Times New Roman', Times, serif;
+}
+/* Navigation Panel */
+#Nav{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    background-color: rgb(218, 197, 228);
+}
+#Nav h1{
+    color: purple;
+    font-style: italic;
+    font-family: cursive;
+    font-size: 3pc;
+}
+#Nav a{
+    color: purple;
+    text-decoration: none;
+}
+#Nav div a{
+    margin: 8px;
+    font-size: 1.8pc;
+}
+.fa-brands{
+    font-size: 85px;
+}
+#Nav a:hover{
+    color: red;
+    cursor: pointer;
+}
+
+/* Detail */
+#details{
+    display: grid;
+    grid-template-columns: auto auto;
+    margin: auto;
+    align-items: center;
+    justify-content: space-around;
+    height: 70vh;
+    width: 100vw;
+}
+#details div{
+    width: 50vw;
+}
+#details img{
+    text-align: center;
+    height: 60vh;
+    width: 40vw;
+    border-radius: 20px;
+}
+.pic{
+    text-align: center; 
+}
+#details h1{
+    color: purple;
+    font-size: 3.5pc;
+}
+.about{
+    margin-right: 15px;
+    margin-left: 10px;
+}
+
+/* Education */
+.ED{
+    background-color: rgb(218, 197, 228);
+    color: purple;
+    font-size: 2.5pc;
+}
+#education{
+    display: grid;
+    grid-template-columns: auto auto;
+    margin: auto;
+    align-items: center;
+    justify-content: left;
+    height: 40vh;
+    width: 100vw; 
+}
+#education div{
+    width: 50vw;
+}
+#education img{
+    text-align: center;
+    height: 35vh;
+    width: 40vw;
+}
+.ed{
+    align-items: center;
+    margin: auto;
+}
+#Institute{
+    text-align: center;
+    
+}
+
+/* Projects */
+#projects h1{
+    background-color: rgb(218, 197, 228);
+    color: purple;
+    font-size: 2.5pc;
+    text-align: center;
+    padding-bottom: 30px;
+}
+#projects{
+    background-color: rgb(218, 197, 228);
+    padding: 40px 60px;
+}
+.items{
+    background-color: white;
+    padding: 20px;
+    border-radius: 10px;
+}
+.grid{
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+    gap: 30px;
+    max-width: 100vw;
+    margin: 0 auto;
+}
+
+/* Skills */
+#skills h1{
+    background-color: white;
+    font-size: 2.5pc;
+    color: purple;
+    text-align: center;
+    padding-bottom: 20px;
+    padding-top: 20px;
+}
+.list1{display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+
+}
+.list2{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+}
+/* contacts */
+
+.Contacts{
+    display: block;
+    text-align: left;
+    margin-left: 20px;
+}
+.contacts2{
+    display: flex;
+    text-align: left;
+    justify-content: space-around;
+    
+}
+
+#contacts h1{
+    color: purple;
+    font-size: 2.5pc;
+    text-align: left;
+    padding-bottom: 20px;
+    padding-top: 20px;
+}
+
+
+/* footer */
+#footer{
+    text-align: center;
+    background-color: rgb(218, 197, 228);
+    padding: 20px 20px;
+}
