@@ -12,7 +12,7 @@ The application features a landing page that highlights my skills, educational b
 * And you are all done
 
 ## Live server
-* You can view the web live on [Portfolio]https://melissak003.github.io/Portfolio/
+* You can view the web live on (https://melissak003.github.io/Portfolio/Index.html)
 
 ## Known Bugs
 The application works perfectly well, no bugs.
